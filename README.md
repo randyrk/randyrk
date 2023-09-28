@@ -1,4 +1,9 @@
-### Hi there 👋
+## Unlock my Journey 🚀
+
+##🤝 Connect with me:
+
+<img align = "left" src = "" width="35px"/>
+
 
 <!--
 **randyrk/randyrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
