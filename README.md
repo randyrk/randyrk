@@ -1,8 +1,8 @@
 ## Unlock my Journey 🚀
 
-##🤝 Connect with me:
+## 🤝 Connect with me :
 
-<img align = "left" src = "" width="35px"/>
+<a href = ""><img align = "left" src = "https://github.com/randyrk/randyrk/blob/main/Github_icons/linkedin.png" width="35px" alt = "linkedin"/></a>
 
 
 <!--
