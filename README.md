@@ -3,6 +3,8 @@
 ## 🤝 Connect with me :
 
 <a href = ""><img align = "left" src = "https://github.com/randyrk/randyrk/blob/main/Github_icons/linkedin.png" width="35px" alt = "linkedin"/></a>
+<a href = ""><img align = "left" src = "https://github.com/randyrk/randyrk/blob/main/Github_icons/gmail.png" width="35px" alt = "linkedin"/></a>
+<a href = ""><img align = "left" src = "https://github.com/randyrk/randyrk/blob/main/Github_icons/portfolio.png" width="35px" alt = "linkedin"/></a>
 
 
 <!--
