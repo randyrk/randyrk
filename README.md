@@ -1,15 +1,14 @@
 
-# Hi there 👋
+# Hello World 👋
 <p align="left">
-<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20A%20FRONTEND%20DEVELOPER&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20SANTHOSH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </p>  
 
 <p align="center">
 
- 
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend-developer%20and%20UI%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3DC1F7&vCenter=true&width=435&lines=Frontend%2FUI+Developer;Crafting+beautiful+and+user-friendly+interfaces;Optimizing+website+performance;Staying+up-to-date+with+the+latest+technologies" alt="Typing SVG" />
 
+</p>
 
 ## 🤝 Connect with me :
 
