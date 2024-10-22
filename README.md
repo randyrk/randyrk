@@ -4,9 +4,9 @@
 <img  src="https://readme-components.vercel.app/api?component=text&text=IM%20SANTHOSH&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </p>  
 
-<p align="center">
+<p align="right">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=3DC1F7&vCenter=true&width=700&lines=Frontend%2FUI+Developer;Crafting+beautiful+and+user-friendly+interfaces;Optimizing+website+performance;Staying+up-to-date+with+the+latest+technologies" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=50&color=3DC1F7&vCenter=true&width=700&lines=Frontend%2FUI+Developer;Crafting+beautiful+and+user-friendly+interfaces;Optimizing+website+performance;Staying+up-to-date+with+the+latest+technologies" alt="Typing SVG" />
 
 </p>
 
